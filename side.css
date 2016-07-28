@@ -1,0 +1,40 @@
+.side{
+	position: fixed;
+	width: 5%;
+	right: 3%;
+	top: 20%;
+}
+.side ul{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+.side ul li{
+	list-style-type: none;
+	padding: 2%;
+}
+.side_1 a{
+	color: black;
+	font-size: 12px;
+	text-decoration: none;
+}
+.side_1:hover{
+	width: 100%;
+	background-color: #D8D8D8;
+	margin: 0 auto;
+}
+.side_1_1{
+	display: none;
+}
+.side_1_1 ul li{
+	border-bottom: 1px solid #DEDEDE;
+}
+.side_1:hover .side_1_1{
+	display: block;
+}
+.side_1_1 ul li:hover{
+	background-color: #AF0102;
+}
+.side_1_1 ul li a:hover{
+	color: white;
+}
