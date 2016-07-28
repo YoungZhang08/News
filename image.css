@@ -1,0 +1,49 @@
+.image{
+	position: relative;
+	width: 79%;
+	margin: 2% auto;		
+}
+.image_1{
+	position: absolute;
+	width: 28%;
+	left: 4%;
+	top: 0;
+}
+.image_2{
+	width: 37.5%;
+	margin-left: 33%;
+}
+.image_3{
+	position: absolute;
+	margin-left: 71.5%;
+	width: 26%;
+	top: 0;
+}
+.image_1_1{
+	width: 50%;
+}
+.image_1_2{
+	top: 0;
+	width: 50%;
+	float: right;
+	position: absolute;
+	margin-left: 51%;
+}
+.image_2_1{
+	width: 61%;
+}
+.image_2_2{
+	position: absolute;
+	width: 32%;
+	left: 56.5%;
+	top: 0;
+}
+.image_2_3{
+	position: absolute;
+	width: 32%;
+	left: 56.5%;
+	top: 50%;
+}
+.image img:hover{
+	opacity:0.5;
+}
