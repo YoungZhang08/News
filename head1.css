@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0; 
+}
+.head_1{
+	background-color: #D7D7D7;
+	width: 100%;
+}
+.dv1{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+.dv1_1{
+	display: inline-block;
+	width: 45%;
+}
+.dv1_2{
+	display: inline-block;
+	width: 45%;
+}
+.head_1 ul{
+	margin: 0 auto;
+}
+.head_1 li{
+	display: inline-block;
+	list-style-type: none;
+	padding: 2%;
+}
+.head_1 ul a{
+	color: #798CA8;
+	text-decoration: none;
+	font-size: 16px;
+}
+.head_1 a:hover{
+	color: #B21112;
+	text-decoration: none;	
+}
+.head_1 li:hover{
+	background-color: white;
+}
