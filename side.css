@@ -35,6 +35,6 @@
 .side_1_1 ul li:hover{
 	background-color: #AF0102;
 }
-.side_1_1 ul li a:hover{
+.side_1_1 ul li:hover a{
 	color: white;
 }
